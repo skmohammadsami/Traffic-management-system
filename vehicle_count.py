@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st # type: ignore
 from PIL import Image
 
 # Function to determine the traffic signal color based on vehicle count
